@@ -1,0 +1,8 @@
+#print your information in 3 lines
+# f_name = str(input("Enter Your First Name : ")).capitalize()
+# l_name = str(input("Enter Your Last Name : ")).capitalize()
+# Uni_code = int(input("Enter Your Uni_code : "))
+# # input(str(f"enter your f_name : "))
+# # input(str(f"enter your l_name : "))
+# # input(int(f"enter your age : "))
+# print(f'''\n'''+ f_name +'\n'+ l_name +f'''\n{Uni_code}''' )
